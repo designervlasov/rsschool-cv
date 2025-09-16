@@ -6,7 +6,7 @@
 - **GitHub:** @designervlasov
 
 ## About me
-I am 26 years old, of which I worked for 5 years in the field of design, I do visual packaging for the Belogorie volleyball team
+I am 26 years old, of which I worked for 6 years in the field of design, I do visual packaging for the Belogorie volleyball team
 
 Fronted development was interesting to me earlier, since at the same time I was freelancing creating website designs
 
