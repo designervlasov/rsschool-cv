@@ -20,7 +20,7 @@ I always wanted to learn how to not only create a visual image, but also impleme
 
 ## Work Experience
 - [My first project](https://rolling-scopes-school.github.io/designervlasov-JSFE2024Q4/christmas-shop/index.html) layout based on a ready-made design using HTML and CSS
-- 
+  
 ## Code Example
 ``` Html
 <div class="hero">
